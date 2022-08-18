@@ -1,2 +1,2 @@
-# DataTypesandVariables-MoreExercise
+# DataTypesAndVariables-MoreExercise
 Data Types and Variables - More Exercise
